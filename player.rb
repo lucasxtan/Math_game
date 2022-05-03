@@ -1,6 +1,5 @@
 class Player 
   attr_accessor :life, :name
-  @life
 
   def initialize(name)
     @life = 3
